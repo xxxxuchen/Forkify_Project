@@ -1,3 +1,3 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+See the complete Project: https://forkify-v2.netlify.app/
